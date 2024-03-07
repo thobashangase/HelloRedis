@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/U94Bq0biZp4tOX5dyn0almkxgDXupT7YHKy7UtrbRwhm/N9iDbZEJn09I7lqRuDU7zMWcmkh9eLF7RIRM9Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\HelloRedis\\HelloRedis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\shang\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\shang\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\shang\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
